@@ -22,7 +22,7 @@ body {
    grid-template-columns: repeat(4, 80px);
    gap: 10px;
    margin: 10px auto;
-   padding: 50px;
+   padding: 25px;
    width: fit-content;        
 }
 
@@ -36,7 +36,7 @@ body {
    justify-content: center;
    align-items: center;
    cursor: pointer;
-   font-size: 30px;
+   font-size: 24px;
 }
 
 .card.flipped {
@@ -48,7 +48,7 @@ body {
 #score {
    text-align: center;
    font-family: 'Courier New', Courier, monospace;
-   font-size: 24px;
+   font-size: 20px;
    font-weight: bold;
    margin-top: 20px;
 }
